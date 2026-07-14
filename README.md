@@ -1,2 +1,3 @@
-# compare
-compare the value of 2 products
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with Tailwind CSS.
